@@ -1,7 +1,7 @@
 name: GREY WATSON
 favicon: null
-layout_spectrum: 0.8140260309446603
-typography_spectrum: 0.8030033896211535
+layout_spectrum: 0.13107
+typography_spectrum: 0.3024
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.3322102820966393
+  brandStrength: 0
   lightness: 0.49799175933003426
   saturation: 0.7878745598718524
-  rhythmicContrast: 0.9296481353230774
+  rhythmicContrast: 0
 purpose: []
