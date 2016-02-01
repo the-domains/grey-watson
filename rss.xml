@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[GREY WATSON]]></title>
         <description><![CDATA[GREY WATSON]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/grey-watson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 12:35:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 12:37:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/grey-watson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6085533d-1584-4e2a-ac2e-3041012af1bc.jpg">]]></description>
-            <link>undefined98c4a274-e314-4916-ab21-3615868427c6/index.html</link>
+            <link>https://thegrid.ai/grey-watson/98c4a274-e314-4916-ab21-3615868427c6/index.html</link>
             <guid isPermaLink="false">98c4a274-e314-4916-ab21-3615868427c6</guid>
-            <pubDate>Mon, 01 Feb 2016 12:35:02 GMT</pubDate>
+            <pubDate>Mon, 01 Feb 2016 12:36:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
